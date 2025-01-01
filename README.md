@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java array iteration and its solution.  The `BuggyArrayIteration.java` file contains the buggy code, which attempts to access an index beyond the array's bounds. The `CorrectedArrayIteration.java` file provides the corrected code.
